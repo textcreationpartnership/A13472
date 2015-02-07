@@ -123,9 +123,12 @@
          <div type="illustration">
             <pb facs="tcp:18816:1"/>
             <pb facs="tcp:18816:1"/>
-            <figure>
-               <head>CAROLUS STUART.</head>
-            </figure>
+            <p>
+               <pb facs="tcp:18816:2"/>
+               <figure>
+                  <head>CAROLUS STUART.</head>
+               </figure>
+            </p>
             <p>
                <hi>Koningk van Engelandt. Schotlandt, En Irlandt, Gebooren A<hi rend="sup">o</hi>. 1600.</hi>
             </p>
